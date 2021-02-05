@@ -1,0 +1,32 @@
+:root {
+  --black-text: #000000;
+  --blue-text: #2196f3;
+  --white-text: #ffffff;
+  --grey-text: #757575;
+  --grey-text-op60: rgba(255, 255, 255, 0.6);
+
+  --background-dark: #2f303a;
+  --background-light: #f5f4fa;
+}
+
+body {
+  background-color: #ffffff;
+  color: #212121;
+}
+
+footer {
+  background-color: var(--background-dark);
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
