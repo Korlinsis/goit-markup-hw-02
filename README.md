@@ -1,6 +1,6 @@
-# goit-markup-hw-01
+# goit-markup-hw-02
 
-Перша домашня робота
+Друга домашня робота
 
 Репозиторій:
 https://github.com/Korlinsis/goit-markup-hw-01
